@@ -1,0 +1,18 @@
+<template>
+  <tr>
+    <td>
+      Id
+    </td>
+    <td>
+      Name
+    </td>
+    <td>
+      Slug
+    </td>
+    <td>
+      Description
+    </td>
+    <td>
+    </td>
+  </tr>
+</template>
